@@ -1,7 +1,9 @@
 # Projekt_4_SQL
 
-## author:** Karel Foniok
+**author:** Karel Foniok
+
 **email:** karel.foniok@gmail.com
+
 **discord:** karel_10181
 
 ## Analýza dostupnost základních potravin široké veřejnosti
