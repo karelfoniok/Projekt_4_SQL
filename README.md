@@ -20,7 +20,7 @@ Pro zodpovězení výzkumných otázez byly připraveny SQL skripty.
 ## Odpovědi na výzkumné otázky
 
 ### 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-Ve většině odvětví převažuje meziroční růst průměrných cen, nicméně najdou se i roky, kdy dochází k meziročnímu poklesu. Pouze u 5 z 19 odvětví se z dat dá vypozorovat, že ve sledovaném období nedošlo k meziročnímu poklesu.
+Ve většině odvětví převažuje meziroční růst průměrných mezd, nicméně najdou se i roky, kdy dochází k meziročnímu poklesu. Pouze u 5 z 19 odvětví se z dat dá vypozorovat, že v celém sledovaném období nedošlo k meziročnímu poklesu.
 
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 V roce 2006 bylo možné si za průměrnou mzdu koupit 1 262 kilogramů chleba a 1409 litrů mléka, v roce 2018 to bylo 1 319 kilogramů chleba a 1 614 litrů mléka.
