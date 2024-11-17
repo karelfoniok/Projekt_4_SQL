@@ -1,7 +1,7 @@
 -- project_sql_primary_final 
 -- (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky)
 
-CREATE OR REPLACE TABLE t_karel_foniok_project_SQL_primary_final AS
+CREATE OR REPLACE TABLE t_karel_foniok_project_sql_primary_final AS
 SELECT year_of_measurement, payroll_year, food_name, average_food_price, industry_name, average_salary
 FROM (
 	SELECT cpc.name AS food_name, round(avg(cpr.value),2) AS average_food_price, YEAR(cpr.date_from) AS year_of_measurement
