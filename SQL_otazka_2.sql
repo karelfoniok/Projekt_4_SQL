@@ -7,6 +7,10 @@ SELECT
 	average_food_price ,
 	round((avg(average_salary)) / average_food_price) as amount
 FROM t_karel_foniok_project_SQL_primary_final
-WHERE (food_name LIKE '%Mléko%' OR food_name  LIKE '%Chléb%') AND (year_of_measurement  = 2006 OR year_of_measurement  = 2018)
-GROUP BY year_of_measurement , food_name  
+WHERE 
+	(food_name LIKE '%Mléko%' OR food_name  LIKE '%Chléb%') 
+	AND (year_of_measurement  = 2006 OR year_of_measurement  = 2018)
+GROUP BY 
+	year_of_measurement, 
+	food_name  
 ORDER BY amount;
