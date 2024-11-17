@@ -12,7 +12,7 @@ Projekt porovnává dostupnost potravin na základě průměrných příjmů za 
 
 ## Datové sady použité pro projekt
 1. **t_karel_foniok_project_sql_primary_final:** Tato tabulka obsahuje data mezd a cen potravin v České republice za sledované období.
-2. **t_karel_foniok_project_sql_secondary_final:** Tato tabulka obsahuje dodatečná data o evropských státech včetně ČR, včetně HDP, GINI koeficientu a populace. 
+2. **t_karel_foniok_project_sql_secondary_final:** Tato tabulka obsahuje dodatečná data o evropských státech jako HDP, GINI koeficient a populaci. 
 
 ## SQL skripty a výstupy
 Pro zodpovězení výzkumných otázez byly připraveny SQL skripty.
